@@ -1,4 +1,0 @@
-oauth-provider
-==============
-
-oauth
