@@ -1,8 +1,8 @@
 # Be sure to restart your server when you modify this file.
 
-LookisOauth::Application.config.session_store :cookie_store, key: '_lookis-oauth_session'
+# OauthProvider::Application.config.session_store :cookie_store, key: '_oauth-provider_session'
 
 # Use the database for sessions instead of the cookie-based default,
 # which shouldn't be used to store highly confidential information
 # (create the session table with "rails generate session_migration")
-# LookisOauth::Application.config.session_store :active_record_store
+# OauthProvider::Application.config.session_store :active_record_store

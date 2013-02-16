@@ -1,4 +1,4 @@
-LookisOauth::Application.routes.draw do
+OauthProvider::Application.routes.draw do
   devise_for :passports
   use_doorkeeper
 

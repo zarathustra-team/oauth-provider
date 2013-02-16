@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-LookisOauth::Application.load_tasks
+OauthProvider::Application.load_tasks
